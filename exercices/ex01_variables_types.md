@@ -15,7 +15,7 @@ Fix all errors so the program prints the correct total after applying a discount
 ```dart
 void main() {
   // TODO 1: price should be 29.99 — fix both the type and the value
-  int price = 12;
+  int price = 11;
 
   // TODO 2: quantity is a count, it should be a whole number
   double quantity = 2.0;
